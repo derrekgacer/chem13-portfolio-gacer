@@ -26,9 +26,9 @@ type nul > "001_structure_bonding_%LASTNAME%\001_infographics_exercise_%LASTNAME
 
 echo.
 echo ============================================
-echo   Done! All 13 folders and files created.
-echo   Go check GitHub Desktop now - it should
-echo   show a bunch of changed files.
+echo   
+echo   
+echo   
 echo ============================================
 echo.
 pause
