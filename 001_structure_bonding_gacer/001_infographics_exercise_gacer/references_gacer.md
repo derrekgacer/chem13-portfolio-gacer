@@ -1,0 +1,7 @@
+American Chemical Society. (2018, July 2). Hyaluronic acid. Molecule of the Week. https://www.acs.org/molecule-of-the-week/archive/h/hyaluronic-acid.html
+American Chemical Society. (2024, November 4). Aspirin. Molecule of the Week Archive. https://www.acs.org/molecule-of-the-week/archive/a/aspirin.html
+National Center for Biotechnology Information. (n.d.). PubChem compound summary for CID 2083, Salbutamol. PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/2083
+National Institute of Standards and Technology. (n.d.). Aspirin. NIST Chemistry WebBook, SRD 69. https://webbook.nist.gov/cgi/cbook.cgi?ID=C50782
+[U.S. Food and Drug Administration. (2019). Ventolin HFA (albuterol sulfate) inhalation aerosol: Prescribing information. FDA prescribing information.](https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020983s036lbl.pdf)
+U.S. Food and Drug Administration. (2026). Hyaluronic acid products containing undeclared ingredients. https://www.fda.gov/consumers/health-fraud-scams/hyaluronic-acid-products-containing-undeclared-ingredients
+Vaia. (n.d.). Write the IUPAC name of aspirin: (a) 2-acetoxy benzoic acid (b) phenyl ethanone (c) benzophenone (d) none of these [Textbook solution]. https://www.vaia.com/en-us/textbooks/chemistry/arihant-objective-approach-to-organic-chemistry-for-iit-jee-and-neet-all-medical-entrances-part-4-2019-edition/chapter-16/problem-117-write-the-iupac-name-of-aspirin-a-2-acetoxy-benz/

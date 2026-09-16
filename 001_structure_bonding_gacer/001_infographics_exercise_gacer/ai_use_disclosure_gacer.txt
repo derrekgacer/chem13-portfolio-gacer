@@ -1,0 +1,15 @@
+AI Use Disclosure
+
+Student: Gacer
+Course: CHEM 13 - Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 1 - GitHub Portfolio Setup and Three Organic Compound Infographics
+
+AI tool used: Claude (Anthropic)
+
+How it was used:
+- Image generation: Used to create and edit visual elements for the infographic (icon graphics, layout design, and image color/background adjustments).
+- Summarization: Used to condense chemical data and reference material into concise infographic content (e.g., properties, uses, risks).
+- Corrections: Used to check and correct chemical facts, formulas, and formatting details before finalizing content.
+- Suggestions: Used to suggest layout ideas, wording, and structural organization for the infographic and folder setup.
+
+I independently reviewed and verified all chemical structures, names, numerical data, and references included in this submission against credible sources (PubChem, NIST WebBook, ACS Molecule of the Week, and FDA prescribing information) to confirm their accuracy. All final content, decisions, and submitted work are my own responsibility.
